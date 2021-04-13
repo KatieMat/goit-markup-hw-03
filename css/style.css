@@ -235,6 +235,7 @@ nav,
 
 .team {
   display: flex;
+  padding-bottom: 30px;
 }
 
 .team .item:not(:last-child) {
@@ -249,6 +250,9 @@ nav,
 }
 
 .card-name {
+  margin-top: 30px;
+  margin-bottom: 10px;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
